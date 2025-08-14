@@ -27,7 +27,7 @@ RabbitMQ 是一个开源的消息代理软件，它实现了高级消息队列�
    ```bash
    rabbitmq-plugins enable rabbitmq_management
    ```
-5. 访问管理界面：http://localhost:15672 (默认用户名/密码: guest/guest)
+5. 访问管理界面 (默认用户名/密码: guest/guest)
 
 ### Linux 安装 (Ubuntu)
 

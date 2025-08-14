@@ -58,7 +58,7 @@ brew services start rabbitmq
 sudo rabbitmq-plugins enable rabbitmq_management
 ```
 
-然后在浏览器中访问 http://localhost:15672，使用默认用户名和密码 `guest/guest` 登录。
+然后在浏览器中访问管理界面，使用默认用户名和密码 `guest/guest` 登录。
 
 ## 核心概念
 
