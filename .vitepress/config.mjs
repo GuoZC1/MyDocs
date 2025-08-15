@@ -3,6 +3,7 @@ import { set_siderbar } from './utils/auto_sidebar.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/MyDocs/',
   head: [["link", {rel: "icon", type: "image/png", href: "/img/index/logo.jpg"}]],
   title: "Document Management",
   description: "A VitePress Site",
